@@ -1,3 +1,12 @@
+The QFG5Patcher is available here (~22MB):
+
+  - Offline installer : https://raw.githubusercontent.com/ubipred/QFG5Patcher/main/publish/QFG5Patcher.application
+    
+  - In case you are missing dependencies and don't wish to bother installing them manually : https://github.com/ubipred/QFG5Patcher/raw/main/publish/setup.exe
+    
+    - Microsoft .NET Framework 4 (x86 and x64) and Update for .NET Framework 4 (KB2468871) 
+    - Windows Installer 4.5
+
 ## Welcome to QFG5Patcher :)
 
 Important note to start with: If you own QFG5 in a language different than english, french, spanish, portuguese german and russian, please get in touch with me! I would like to add as many languages as possible to the patcher :)
@@ -31,8 +40,6 @@ This tools keeps growing and currently allows to :
 
 This tool is fully functional with the game purchased from any support (CD, Steam, GOG).
    
-The QFG5Patcher is available here (~20MB):
-
 
 Video reference available here: https://www.youtube.com/watch?v=iBU6Taj4Wn8
 
