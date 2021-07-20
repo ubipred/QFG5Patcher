@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to QFG5Patcher :)
 
-You can use the [editor on GitHub](https://github.com/ubipred/QFG5Patcher/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Important note to start with: If you own QFG5 in a language different than english, french, spanish, portuguese german and russian, please get in touch with me! I would like to add as many languages as possible to the patcher :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello everyone! :)
 
-### Markdown
+Since 2017, I've put my knowledge into contribution and developed this tool for the **Quest for Glory 5**'s community
+This tools keeps growing and currently allows to :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **Patch the game's texts/subtitles into 6 currently supported languages:**
+    - **French**
+    - **English**
+    - **Spanish** (translated by microweb with the help of Chyron. Thank you very much guys for your incredible contribution to QFG5 community! Your work is absolutely amazing! :)
+    - **Portuguese**
+    - **German**
+    - **Russian**
+2. **Contains a crash fix that was only affecting french and russian versions of the game. The crash was occurring in the 5 villages' chest room, making it nearly impossible to progress.**
+3. **Improve compatibity on newer Operating Systems (mostly relevant if you own a CD version of the game)**
+4. **Customize your experience** :
+    - Lets you choose between 3 characters to start your adventure with.
+    - Lets you set the amount of money in bank when starting a new adventure.
+    - Lets you set the amont of skill points to assign during character creations.
+    - Change the Mystic Magnet's teleport destination.
+    - Unlock exclusive weapons cut from the game.
+    - Polygamy mode (lets you buy as many Hera's ring as you want).
+    - Many more features to come...
+5. **Crash detection with knowledge base**
+    When the game is launched through QFG5Patcher: the tool will automatically detect your game's crashes.
+    - If a solution for it is found offline, it's going to give you some instructions on how to fix it.
+    - If a solution for it is found online, you will be offered to be redirected to the url containing all the information about the issue, and how to fix it.
 
-```markdown
-Syntax highlighted code block
+This tool is fully functional with the game purchased from any support (CD, Steam, GOG).
+   
+The QFG5Patcher is available here (~20MB):
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Video reference available here: https://www.youtube.com/watch?v=iBU6Taj4Wn8
 
-1. Numbered
-2. List
+A few screenshots from the patched game:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ubipred/QFG5Patcher/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="https://i.imgur.com/3MScdRt.jpg" height="380" width="534">
+<img src="https://i.imgur.com/Q6gEG03.jpg" height="380" width="534">
+<img src="https://i.imgur.com/kjNeJfW.jpg" height="380" width="534">
+<img src="https://i.imgur.com/myEsfUJ.jpg" height="380" width="534">
+<img src="https://i.imgur.com/FPh2ppi.jpg" height="380" width="534">
+<img src="https://i.imgur.com/v51hABT.jpg" height="380" width="534">
