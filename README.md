@@ -1,9 +1,7 @@
 The QFG5Patcher is available here (~22MB):
 
-  - Offline installer : https://raw.githubusercontent.com/ubipred/QFG5Patcher/main/publish/QFG5Patcher.application
-    
-  - In case you are missing dependencies and don't wish to bother installing them manually : https://github.com/ubipred/QFG5Patcher/raw/main/publish/setup.exe
-    
+- [<img src="https://github.com/ubipred/QFG5Patcher/raw/main/publish/Application%20Files/QFG5Patcher_1_0_1_14/Resources/logo.ico.deploy" width="25"/> Download (Offline installer)](https://github.com/ubipred/QFG5Patcher/raw/main/publish/setup.exe) 
+  - This will also ensure you have the Microsoft dependencies installed, and install them automatically if not :     
     - Microsoft .NET Framework 4 (x86 and x64) and Update for .NET Framework 4 (KB2468871) 
     - Windows Installer 4.5
 
