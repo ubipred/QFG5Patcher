@@ -26,7 +26,7 @@ This tools keeps growing and currently allows to :
 4. **Customize your experience** :
     - Lets you choose between 3 characters to start your adventure with.
     - Lets you set the amount of money in bank when starting a new adventure.
-    - Lets you set the amont of skill points to assign during character creations.
+    - Lets you set the amount of skill points to assign during character creations.
     - Change the Mystic Magnet's teleport destination.
     - Unlock exclusive weapons cut from the game.
     - Polygamy mode (lets you buy as many Hera's ring as you want).
