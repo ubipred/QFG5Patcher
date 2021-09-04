@@ -1,13 +1,19 @@
-The QFG5Patcher is available here (~22MB):
+**QFG5Patcher user manual** [English](QFG5Patcher_manual_en.pdf) <--> [French](QFG5Patcher_manual_fr.pdf) (Manual made by co-creator Threepwang, you are the best ♥)
+<br />
+<br />
+- [<img src="https://github.com/ubipred/QFG5Patcher/raw/main/publish/Application%20Files/QFG5Patcher_1_0_1_14/Resources/logo.ico.deploy" width="25"/> **Download portable executable**](https://github.com/ubipred/QFG5Patcher/releases/latest/download/QFG5Patcher.exe)
+    - Portable executable, no installation needed.
+    - If you are missing Microsoft dependencies, install either the installer setup below OR the missing dependencies manually :)
 
-- [<img src="https://github.com/ubipred/QFG5Patcher/raw/main/publish/Application%20Files/QFG5Patcher_1_0_1_14/Resources/logo.ico.deploy" width="25"/> Download (Offline installer)](https://github.com/ubipred/QFG5Patcher/raw/main/publish/setup.exe) 
-  - This will also ensure you have the Microsoft dependencies installed, and install them automatically if not :     
-    - Microsoft .NET Framework 4 (x86 and x64) and Update for .NET Framework 4 (KB2468871) 
-    - Windows Installer 4.5
+- [<img src="https://github.com/ubipred/QFG5Patcher/raw/main/publish/Application%20Files/QFG5Patcher_1_0_1_14/Resources/logo.ico.deploy" width="25"/> **Download offline Installer**](https://github.com/ubipred/QFG5Patcher/raw/main/publish/setup.exe)
+    - Offers you to download the latest release whenever one gets released
+    - Ensure you have the Microsoft dependencies installed, and install them automatically if not :     
+      - Microsoft .NET Framework 4 (x86 and x64) and Update for .NET Framework 4 (KB2468871) 
+      - Windows Installer 4.5
 
 ## Welcome to QFG5Patcher :)
 
-Important note to start with: If you own QFG5 in a language different than english, french, spanish, portuguese german and russian, please get in touch with me! I would like to add as many languages as possible to the patcher :)
+Important note to start with: If you own QFG5 in a language different than English, French, Spanish, Portuguese, German and Russian, please get in touch with me! I would like to add as many languages as possible to the patcher :)
 
 Hello everyone! :)
 
