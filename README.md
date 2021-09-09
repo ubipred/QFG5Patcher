@@ -5,7 +5,7 @@
     - Portable executable, no installation needed.
     - If you are missing Microsoft dependencies, install either the installer setup below OR the missing dependencies manually :)
 
-- [<img src="https://github.com/ubipred/QFG5Patcher/raw/main/publish/Application%20Files/QFG5Patcher_1_0_1_14/Resources/logo.ico.deploy" width="25"/> **Download offline Installer**](https://github.com/ubipred/QFG5Patcher/raw/main/publish/setup.exe)
+- [<img src="https://github.com/ubipred/QFG5Patcher/raw/main/publish/Application%20Files/QFG5Patcher_1_0_1_14/Resources/logo.ico.deploy" width="25"/> **Download offline Installer**](https://github.com/ubipred/QFG5Patcher/raw/main/publish/QFG5Patcher_setup.exe)
     - Offers you to download the latest release whenever one gets released
     - Ensure you have the Microsoft dependencies installed, and install them automatically if not :     
       - Microsoft .NET Framework 4 (x86 and x64) and Update for .NET Framework 4 (KB2468871) 
