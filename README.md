@@ -58,11 +58,16 @@ Video reference available here: https://www.youtube.com/watch?v=iBU6Taj4Wn8
 
 A few screenshots from the patched game:
 
-Debug info
-<br />
+**QFG5Patcher Tool**<br />
+![QFG5Patcher](https://user-images.githubusercontent.com/87683872/143779447-3427bef3-663f-4b38-983f-3bf9c73bc663.jpg)
+![General Customization Options](https://user-images.githubusercontent.com/87683872/143779532-79649c21-0523-45d8-b771-10173809ac48.jpg)
+![Character Customization Options](https://user-images.githubusercontent.com/87683872/143779462-af4683f6-f38b-4a39-a580-df11890ce5a1.jpg)
+
+
+**Debug info**<br />
 <img src="https://user-images.githubusercontent.com/87683872/143725886-2cfd887b-a987-4a4c-b898-2bef590dbdb3.png" height="380" width="534">
 
-Patched languages<br />
+**Patched languages**<br />
 <img src="https://i.imgur.com/3MScdRt.jpg" height="380" width="534">
 <img src="https://i.imgur.com/Q6gEG03.jpg" height="380" width="534">
 <img src="https://i.imgur.com/kjNeJfW.jpg" height="380" width="534">
