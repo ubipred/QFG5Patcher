@@ -28,8 +28,13 @@ This tools keeps growing and currently allows to :
     - **German**
     - **Russian**
 2. **Contains a crash fix that was only affecting french and russian versions of the game. The crash was occurring in the 5 villages' chest room, making it nearly impossible to progress.**
-3. **Improve compatibity on newer Operating Systems (mostly relevant if you own a CD version of the game)**
-4. **Customize your experience** :
+3. **Fixes ALL known crashes & animation sequence getting stuck when playing as Elsa and Magnum. This should make possible an entire walkthrough as Elsa and Magnum.**
+4. **Fixes a crash that was happening under obscure circumstances whenever triggering an inland random encounter. This crash was very serious because it affected the savegame. This also fixes cases where a random encounter sound would play without launching any fight**
+5. **Fixes the dragonlings sound crash occuring when performing the 'fire breathing' attack. This should also fix the dragon crash.**
+6. **Fixes random crash occurring when using Thermonuclear spell in a relatively densely populated area (such as the invaded villages)**
+7. **Fixes 'Glide' spell crash due to missing graphics (spell was cut from the game, but it is still accessible using a savegame editor)**
+8. **Improve compatibity on newer Operating Systems (mostly relevant if you own a CD version of the game)**
+9. **Customize your experience** :
     - [General options]
         - Lets you choose between 3 characters to start your adventure with.
         - Lets you set the amount of money in bank when starting a new adventure.
@@ -46,7 +51,7 @@ This tools keeps growing and currently allows to :
         - Lets you choose whether or not you want to prevent the game from altering characters' stats at import (to make 'Collection Challenge Mode' possible in QFG5)
         - Lets you define the characters' base skills values for each of the classes (Fighter, Wizard, Thief and Paladin)
     - Many more features to come...
-5. **Crash detection with knowledge base**
+10. **Crash detection with knowledge base**
     When the game is launched through QFG5Patcher: the tool will automatically detect your game's crashes.
     - If a solution for it is found offline, it's going to give you some instructions on how to fix it.
     - If a solution for it is found online, you will be offered to be redirected to the url containing all the information about the issue, and how to fix it.
