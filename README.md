@@ -36,7 +36,9 @@ This tools keeps growing and currently allows to :
 7. **Fixes 'Glide' spell crash due to missing graphics (spell was cut from the game, but it is still accessible using a savegame editor)**
 8. **Improve compatibity on newer Operating Systems (mostly relevant if you own a CD version of the game)**
 9. **Contains a home-made translation tool, so that QFG5 can be translated into new languages! :)**
-10. **Customize your experience** :
+10. **Contains a Display Settings menu to change your game resolution, display mode (fullscreen, windowed and borderless window) and aspect ratio.**
+
+11. **Customize your experience** :
     - [General options]
         - Lets you choose between 3 characters to start your adventure with.
         - Lets you set the amount of money in bank when starting a new adventure.
@@ -44,6 +46,7 @@ This tools keeps growing and currently allows to :
         - Unlock exclusive weapons cut from the game.
         - Polygamy mode (lets you buy as many Hera's ring as you want).
         - Lets you play the game without the need of a CD (no-cd, option only relevant if you play the CD version of the game)
+        - Fixes known instabilities and crashes affecting the gameplay
     - [Character customization's options]
         - Lets you set the amount of attributable skill points
         - Lets you set the cost for learning a new skill
@@ -60,8 +63,19 @@ This tools keeps growing and currently allows to :
         - Lets you disable/enable unlimited stamina
         - Lets you disable/enable unlimited mana
         - Lets you customize the ingame time speed (speed at which time flies). The time on the clock can also be reversed, but use at your own risks
+        - Allows you to enable/disable magic usage restrictions in rooms
+        - Allows you to enable/disable mystic magnet usage from anywhere
+        - Allows you to enable/disable a way to bypass the greek contraption traps. (auto-disarm)
+        - Allows you to lock/unlock all deeds in the deeds list
+        - Allows you to show/hide the uncompleted deeds menu option
+        - Allows you to enable/disable freeing both Erana and Katrina from Hades
+    - [Marriage]
+        - Allows you to enable/disable all class requirements for marrying Katrina
+        - Allows you to enable/disable Katrina's jealousy
+        - Allows you to enable/disable all class requirements for marrying Erana
+        - Allows you to enable/disable Erana's jealousy
     - Many more features to come...
-11. **Crash detection with knowledge base**
+12. **Crash detection with knowledge base**
     When the game is launched through QFG5Patcher: the tool will automatically detect your game's crashes.
     - If a solution for it is found offline, it's going to give you some instructions on how to fix it.
     - If a solution for it is found online, you will be offered to be redirected to the url containing all the information about the issue, and how to fix it.
@@ -71,13 +85,15 @@ This tool is fully functional with the game purchased from any support (CD, Stea
 
 Video reference available here: https://www.youtube.com/watch?v=iBU6Taj4Wn8
 
-A few screenshots from the patched game:
+A few screenshots from the tool and patched game:
 
 **QFG5Patcher Tool**<br />
-![QFG5Patcher](https://github.com/ubipred/QFG5Patcher/assets/87683872/e2a091fc-d33b-4684-b7b4-1c4dcb9dfb29)
-![General Customization Options](https://github.com/ubipred/QFG5Patcher/assets/87683872/68a224c1-9cb1-4bd8-9948-c94cc2a0a7d7)
-![Character Customization Options](https://github.com/ubipred/QFG5Patcher/assets/87683872/b4af78cd-a61a-485c-95a8-b646f1d83009)
-![Cheats menu](https://github.com/ubipred/QFG5Patcher/assets/87683872/39d2d038-2363-4917-8a55-2fc7fbd7720e)
+<img width="582" height="523" alt="QFG5Patcher" src="https://github.com/user-attachments/assets/a70b66c5-293e-423c-921b-f8f0afcf769c" />
+<img width="432" height="642" alt="Display Settings" src="https://github.com/user-attachments/assets/82e78432-395f-4199-91ae-1c364db9c4d7" />
+<img width="464" height="488" alt="General Customization Options" src="https://github.com/user-attachments/assets/1f427f6f-7ab1-4510-bc48-62c2b37e051d" />
+<img width="464" height="488" alt="Character Customization Options" src="https://github.com/user-attachments/assets/c1b88e06-753e-4b8a-876d-3600a1450f90" />
+<img width="464" height="488" alt="Cheats menu" src="https://github.com/user-attachments/assets/26182bea-0460-452f-9d13-3db3a01c634a" />
+<img width="464" height="488" alt="Marriage Customization Options" src="https://github.com/user-attachments/assets/6176ad5a-1070-41f3-8525-a4520efcfc7c" />
 ![Translation tool](https://github.com/ubipred/QFG5Patcher/assets/87683872/01a2f56d-9ddf-41b4-8fa8-aee2422748d9)
 
 
@@ -91,5 +107,4 @@ A few screenshots from the patched game:
 <img src="https://i.imgur.com/myEsfUJ.jpg" height="380" width="534">
 <img src="https://i.imgur.com/FPh2ppi.jpg" height="380" width="534">
 <img src="https://i.imgur.com/v51hABT.jpg" height="380" width="534">
-![Czech](https://github.com/ubipred/QFG5Patcher/assets/87683872/a18f146a-ab53-4121-a4d7-9f241d8bc60d)
-
+<img src="https://i.imgur.com/IdGuVYL.jpeg" height="380" width="534">
